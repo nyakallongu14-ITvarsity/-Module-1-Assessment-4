@@ -1,0 +1,41 @@
+h{
+    font-family:fantasy;
+    
+    font-size:45px;
+    
+   
+
+}
+
+th{
+    font-family: fantasy;
+    
+    font-size: 20px;
+    
+}
+
+table, th, td{
+    border-style: double;
+}
+
+body{
+    background-color:powderblue;
+}
+
+img{
+ display:block;
+    float:right;
+    margin-right: auto;
+        width:480px;
+    height:800px;
+}
+
+a{
+    font-size: 30px;
+    text-align: center;
+    
+}
+#nav 
+{
+    text-align: center;
+}
